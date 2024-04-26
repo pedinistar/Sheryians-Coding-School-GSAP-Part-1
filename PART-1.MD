@@ -18,4 +18,6 @@
 - TIMELINE
 
   - Very Important Concept
-  -
+  - var tl = gsap.timeline()
+    tl.from("", {}) 
+    .to("", {})
